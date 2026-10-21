@@ -18,15 +18,15 @@ Al instalar, lea la licencia que aparece en el asistente.
 SHA-256 del instalador:
 
 ```text
-673E11BDA9EB4F3531ABFDE809540B15BC174C5C1D72424848A9F289736C07F5
+AB0D680D318252C634312854108A653CA0764D4D01A7017269461BA15EE5E0E5
 ```
 
 SHA-256 de la guía:
 
 ```text
-E8E705036DF71C4116430C6A0E7C4535FBF64EA586D526A82FCA8C253C12D920
+CAD956C307B4AA83813C2BD7E3D8CAA0A88C83843AABEC368E6170F1F204DDB1
 ```
 
 El código fuente y la documentación de desarrollo se encuentran en [StoQuito](https://github.com/ElHendri87/StoQuito).
 
-**Aviso de seguridad:** al compilar esta versión, .NET notificó vulnerabilidades conocidas en algunas dependencias. Se está revisando su impacto; descargue únicamente los archivos de esta página y conserve respaldos de su información.
+La versión actual se compiló con .NET 10.0.13 y pasó la auditoría de paquetes de NuGet sin alertas conocidas.
