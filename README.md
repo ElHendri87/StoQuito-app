@@ -11,7 +11,7 @@ Abra la [última versión publicada](https://github.com/ElHendri87/StoQuito-app/
 
 No descargue los archivos automáticos **Source code (zip)** o **Source code (tar.gz)** para instalar la aplicación: no son el instalador. El programa incluye .NET y no requiere instalarlo por separado.
 
-Al instalar, lea la licencia que aparece en el asistente. El instalador no está firmado digitalmente, por lo que Windows puede mostrar un aviso de editor desconocido.
+Al instalar, lea la licencia que aparece en el asistente.
 
 ## Verificar la descarga
 
