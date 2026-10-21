@@ -55,5 +55,3 @@ CAD956C307B4AA83813C2BD7E3D8CAA0A88C83843AABEC368E6170F1F204DDB1
 ```
 
 Desarrollado por **El Hendri** · [elhendri.com](https://elhendri.com)
-
-El [código fuente y la documentación de desarrollo](https://github.com/ElHendri87/StoQuito) están en un repositorio separado. Esta versión se compiló con .NET 10.0.13 y pasó la auditoría de paquetes de NuGet sin alertas conocidas.
