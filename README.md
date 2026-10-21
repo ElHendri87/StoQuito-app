@@ -40,18 +40,4 @@ El **Administrador** configura el sistema, gestiona usuarios y respaldos y puede
 
 Los datos se guardan en el equipo, en `%LocalAppData%\StoQuito\`. Conserva una copia de tus respaldos en un lugar seguro. Para restaurar un respaldo, la aplicación reemplaza los datos actuales por los de esa copia.
 
-## Verificar los archivos descargados
-
-SHA-256 del instalador:
-
-```text
-AB0D680D318252C634312854108A653CA0764D4D01A7017269461BA15EE5E0E5
-```
-
-SHA-256 de la guía:
-
-```text
-CAD956C307B4AA83813C2BD7E3D8CAA0A88C83843AABEC368E6170F1F204DDB1
-```
-
 Desarrollado por **El Hendri** · [elhendri.com](https://elhendri.com)
